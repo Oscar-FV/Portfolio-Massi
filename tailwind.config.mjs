@@ -8,8 +8,15 @@ export default {
 				'poppins':  ['Poppins', 'sans-serif'],
 			},
 			colors: {
-				textBlack: '#1E1E1E'
+				textBlack: '#1E1E1E',
+				projectText: '#E8DAFF'
 			},
+			backgroundImage: {
+				'bento1': "url('/imgs/bento1.webp')",
+				'bento2': "url('/imgs/bento2.webp')",
+				'bento3': "url('/imgs/bento3.webp')",
+				'bento4': "url('/imgs/bento4.webp')",
+			}
 		},
 	},
 	plugins: [],
